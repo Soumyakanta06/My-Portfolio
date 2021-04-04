@@ -24,7 +24,7 @@ a:hover,.active a{
 	
 
 .hero{
-	background:url(heroimg.jpg) no-repeat center;
+	background:url(images/heroimg.jpg) no-repeat center;
 	background-size:cover;
 	height:400px;
 	position:relative;
@@ -54,27 +54,27 @@ span{
 }
 #leftbox{
 	float:left;
-	background:url(school.jpg) center;   
+	background:url(images/school.jpg) center;   
 	width:19%;
 	height:280px;
 	padding-right:1px solid black;
 }
 #middlebox{
 	float:left;
-	background:url(college.jpg) no-repeat center;
+	background:url(images/college.jpg) no-repeat center;
 	width:20%;
 	height:280px;
 	/*border:1px solid black;*/
 }
 #rightbox{
 	float:right;
-	background:url(btech.png) no-repeat center;
+	background:url(images/btech.png) no-repeat center;
 	width:20%;
 	height:280px;	
 }
 #leftbox1{
 	float:left;
-	background:url(darkbrickwall.jpg) center;   
+	background:url(images/darkbrickwall.jpg) center;   
 	width:80%;
 	height:280px;
 	padding-top:1px;
